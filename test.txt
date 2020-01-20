@@ -1,1 +1,1 @@
-Wenn du die Datei sehen kannst hast du erfolgreich die Daten vom Server geladen.
+Jetzt habe ich die Datei geändert, sodass es einen Konflikt gibt.
