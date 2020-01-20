@@ -1,1 +1,1 @@
-Wenn du die Datei sehen kannst hastvdu erfolgreich die Daten vom Server geladen.
+Wenn du die Datei sehen kannst hast du erfolgreich die Daten vom Server geladen.
